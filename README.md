@@ -1,70 +1,97 @@
-<!-- ============================================================
-     BANNER
-     Replace the image below with your custom banner.
-     Recommended size: 1500x500px. You can create one at canva.com.
-     ============================================================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mikel%20Fernandez&fontAlign=50&fontAlignY=40&color=gradient&customColorList=2,12,20&fontSize=48&fontColor=ffffff&desc=Software%20Engineer%20·%20Bilbao&descAlign=50&descAlignY=62&descSize=18" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <em>Creative problem-solver with a passion for building things that work — from bare-metal systems to full-stack platforms.</em><br/>
-  <em>5 years of coding · 42 Student pursuing RNCP7 · Based in Bilbao</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Mikel%20Fernandez&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20·%20Bilbao%2C%20Spain&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20opportunities-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/42%20Student-000000?style=for-the-badge&logo=42&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bilbao%2C%20Spain-EE4B2B?style=for-the-badge" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Systems+Programmer;Full-Stack+Developer;Cybersecurity+Enthusiast;42+Student+%7C+RNCP7+Track;Always+learning+something+new" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mikferna&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/mikferna?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge" />
 </p>
 
 ---
 
 ## 👨‍💻 About me
 
-I'm a software engineering student at **42 Urduliz**, working through one of the most demanding peer-to-peer curricula in Europe. Over the past 5 years I've built everything from low-level C libraries and Unix shells to full-stack web platforms and Docker infrastructures — always from scratch, without hand-holding.
-
-I enjoy tackling hard problems across the stack: systems programming, backend architecture, frontend interfaces, and infrastructure. Currently focused on completing the 42 outer core and deepening my knowledge in **cybersecurity** and **AI**.
-
-- 🔭 Working on — 42 outer core projects (RNCP7 track)
-- 🌱 Next — Cybersecurity specialisation
-- 💡 Passionate about — AI, clean architecture, and building things end-to-end
-- 🌍 Languages — Spanish · Basque · English · French (basic)
+```typescript
+const mikferna = {
+  name:       "Mikel Fernandez",
+  location:   "Bilbao, Spain 🌊",
+  education:  "42 Málaga — RNCP7 track",
+  experience: "5 years of coding",
+  languages:  ["Spanish 🇪🇸", "Basque 🏴", "English 🇬🇧", "French (basic) 🇫🇷"],
+  interests:  ["Systems programming", "Full-stack web", "Cybersecurity", "AI"],
+  currentlyLearning: "42 outer core · Cybersecurity",
+  openTo:     "Job opportunities & collaborations",
+};
+```
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,ts,bash&theme=dark" />
-
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=django,nginx&theme=dark" />
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=angular,html,css,js&theme=dark" />
-
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
-
-**DevOps & Infrastructure**<br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,git&theme=dark" />
-
+  <strong>Languages</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,bash&theme=dark&perline=6" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
+  <strong>Backend · Frontend · Databases</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=django,angular,html,css,postgres,mysql&theme=dark&perline=6" />
+</p>
+
+<p align="center">
+  <strong>DevOps · Tools</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,vscode,github&theme=dark&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square" />
   <img src="https://img.shields.io/badge/GNU%20Make-A42E2B?style=flat-square" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/pthreads-555555?style=flat-square" />
-  <img src="https://img.shields.io/badge/MiniLibX-222222?style=flat-square" />
+  <img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Pin cards: replace repo names if your GitHub repos have different names -->
+
+<p align="center">
+  <a href="https://github.com/mikferna/ft_transcendence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikferna&repo=ft_transcendence&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+  </a>
+  <a href="https://github.com/mikferna/webserv">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikferna&repo=webserv&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mikferna/minishell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikferna&repo=minishell&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+  </a>
+  <a href="https://github.com/mikferna/cub3d">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikferna&repo=cub3d&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mikferna/inception">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikferna&repo=inception&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+  </a>
+  <a href="https://github.com/mikferna/darkly">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikferna&repo=darkly&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+  </a>
 </p>
 
 ---
@@ -73,30 +100,33 @@ I enjoy tackling hard problems across the stack: systems programming, backend ar
 
 <p align="center">
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=mikferna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    src="https://github-readme-stats.vercel.app/api?username=mikferna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true" />
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikferna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikferna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mikferna&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mikferna&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mikferna&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mikferna&theme=tokyonight&no-frame=true&margin-w=6&margin-h=6&row=1&column=7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikferna&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mikferna&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff"
+    width="95%" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
 
 <!-- ============================================================
-     CONTRIBUTION SNAKE
-     To enable the snake animation, create the following
-     GitHub Actions workflow in your profile repository:
-
-     File: .github/workflows/snake.yml
-     ──────────────────────────────────
+     To enable the snake, create this workflow in your profile repo:
+     .github/workflows/snake.yml
+     ──────────────────────────────────────────────────────────────
      name: Generate Snake
 
      on:
@@ -120,8 +150,9 @@ I enjoy tackling hard problems across the stack: systems programming, backend ar
                build_dir: dist
              env:
                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-     ──────────────────────────────────
-     Once the workflow runs, uncomment the line below:
+     ──────────────────────────────────────────────────────────────
+     Once the workflow runs once, delete these comments and
+     uncomment the <picture> block below.
      ============================================================ -->
 
 <!--
@@ -131,34 +162,20 @@ I enjoy tackling hard problems across the stack: systems programming, backend ar
       srcset="https://raw.githubusercontent.com/mikferna/mikferna/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/mikferna/mikferna/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/mikferna/mikferna/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/mikferna/mikferna/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 -->
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Key skill |
-|---|---|---|
-| [**ft_transcendence**](https://github.com/mikferna/ft_transcendence) | Real-time multiplayer Pong platform — full-stack, WebSockets, OAuth, tournaments | Full-stack · Django · Angular 17 · Docker |
-| [**webserv**](https://github.com/mikferna/webserv) | HTTP/1.1 server built from scratch in C++ with `select()`, CGI and virtual hosts | Systems · Networking · C++ |
-| [**minishell**](https://github.com/mikferna/minishell) | Unix shell with pipes, redirections, builtins, signals and variable expansion | Process management · Parsing · C |
-| [**cub3D**](https://github.com/mikferna/cub3d) | Wolfenstein-style raycasting engine with DDA algorithm and texture mapping | Graphics · Math · C |
-| [**inception**](https://github.com/mikferna/inception) | Production-grade Docker infrastructure — NGINX, WordPress, MariaDB, TLS 1.3 | DevOps · Docker · Security |
-| [**darkly**](https://github.com/mikferna/darkly) | Web security CTF — 14 vulnerabilities exploited and documented (OWASP Top 10) | Cybersecurity · Pentesting |
-
----
-
 ## 💭 Philosophy
 
-I believe good software is built on understanding, not shortcuts.
+> *Build things you understand. Ship things you can defend.*
 
-At 42 there are no teachers, no deadlines handed down from above, and no copy-paste that passes peer review. Every project is built from the ground up — and defended in person. That trains a specific mindset: read the spec carefully, understand the problem deeply, build something you can explain line by line.
+At **42** there are no teachers and no shortcuts — every project is built from scratch and defended line by line in front of a peer. That environment shapes a specific way of thinking: understand the problem before writing a single line, write code that someone else can read, and never pretend to know what you don't.
 
-I write code that is **readable first**, correct always, and only then optimised. I prefer a clean architecture over a clever hack, and I'd rather admit I don't know something than pretend I do.
+I care about clean architecture, proper error handling, and software that actually works — not just compiles.
 
 ---
 
@@ -166,14 +183,14 @@ I write code that is **readable first**, correct always, and only then optimised
 
 <p align="center">
 
-<!-- LinkedIn placeholder — add your URL when ready -->
+<!-- Add your LinkedIn URL when ready -->
 <a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-coming%20soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-coming%20soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<!-- Portfolio placeholder — replace # with your URL when ready -->
+<!-- Replace # with your portfolio URL when ready -->
 <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-work%20in%20progress-222222?style=for-the-badge&logo=firefox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-work%20in%20progress-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
 <a href="https://github.com/mikferna">
@@ -185,5 +202,5 @@ I write code that is **readable first**, correct always, and only then optimised
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,12,20&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%" />
 </p>
