@@ -22,7 +22,7 @@
 const mikferna = {
   name:       "Mikel Fernandez",
   location:   "Bilbao, Spain 🌊",
-  education:  "42 Málaga — RNCP7 track",
+  education:  "42 Urduliz — RNCP7 track",
   experience: "5 years of coding",
   languages:  ["Spanish 🇪🇸", "Basque 🏴", "English 🇬🇧", "French (basic) 🇫🇷"],
   interests:  ["Systems programming", "Full-stack web", "Cybersecurity", "AI"],
