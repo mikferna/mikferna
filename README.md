@@ -69,28 +69,28 @@ const mikferna = {
 
 <p align="center">
   <a href="https://github.com/mikferna/ft_transcendence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikferna&repo=ft_transcendence&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+    <img src="https://readme-stats-makri.vercel.app/api/pin/?username=mikferna&repo=ft_transcendence&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
   </a>
   <a href="https://github.com/mikferna/webserv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikferna&repo=webserv&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+    <img src="https://readme-stats-makri.vercel.app/api/pin/?username=mikferna&repo=webserv&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mikferna/minishell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikferna&repo=minishell&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+    <img src="https://readme-stats-makri.vercel.app/api/pin/?username=mikferna&repo=minishell&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
   </a>
   <a href="https://github.com/mikferna/cub3d">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikferna&repo=cub3d&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+    <img src="https://readme-stats-makri.vercel.app/api/pin/?username=mikferna&repo=cub3d&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mikferna/inception">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikferna&repo=inception&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+    <img src="https://readme-stats-makri.vercel.app/api/pin/?username=mikferna&repo=inception&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
   </a>
   <a href="https://github.com/mikferna/darkly">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikferna&repo=darkly&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+    <img src="https://readme-stats-makri.vercel.app/api/pin/?username=mikferna&repo=darkly&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
   </a>
 </p>
 
@@ -100,9 +100,9 @@ const mikferna = {
 
 <p align="center">
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=mikferna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true" />
+    src="https://readme-stats-makri.vercel.app/api?username=mikferna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true" />
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikferna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" />
+    src="https://readme-stats-makri.vercel.app/api/top-langs/?username=mikferna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" />
 </p>
 
 <p align="center">
@@ -155,7 +155,6 @@ const mikferna = {
      uncomment the <picture> block below.
      ============================================================ -->
 
-<!--
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -165,7 +164,6 @@ const mikferna = {
     <img alt="Snake animation" src="https://raw.githubusercontent.com/mikferna/mikferna/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
--->
 
 ---
 
