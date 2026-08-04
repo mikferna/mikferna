@@ -110,10 +110,6 @@ const mikferna = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mikferna&theme=tokyonight&no-frame=true&margin-w=6&margin-h=6&row=1&column=7" />
-</p>
-
-<p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=mikferna&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff"
     width="95%" />
